@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion]
+"SM_GamesName"="Games"
+"DevicePath"=hex(7):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,\
+  00,74,00,25,00,5c,00,69,00,6e,00,66,00,00,00,00,00
+"MediaPathUnexpanded"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,\
+  6f,00,6f,00,74,00,25,00,5c,00,4d,00,65,00,64,00,69,00,61,00,00,00
+"ProgramFilesPath"=hex(2):25,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,46,\
+  00,69,00,6c,00,65,00,73,00,25,00,00,00
+"CommonFilesDir"="C:\\Program Files\\Common Files"
+"ProgramFilesDir"="C:\\Program Files"
+"CommonFilesDir (x86)"="C:\\Program Files (x86)\\Common Files"
+"ProgramFilesDir (x86)"="C:\\Program Files (x86)"
+"ProgramW6432Dir"="C:\\Program Files"
+"CommonW6432Dir"="C:\\Program Files\\Common Files"
+"SM_ConfigureProgramsName"="Set Program Access and Defaults"
