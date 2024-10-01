@@ -1,0 +1,100 @@
+.ace-clouds .ace_gutter {
+background: #25282c;
+color: #C5C8C6
+}
+.ace-clouds .ace_print-margin {
+width: 1px;
+background: #25282c
+}
+.ace-clouds {
+background-color: #1D1F21;
+color: #C5C8C6
+}
+.ace-clouds .ace_cursor {
+color: #AEAFAD
+}
+.ace-clouds .ace_marker-layer .ace_selection {
+background: #373B41
+}
+.ace-clouds.ace_multiselect .ace_selection.ace_start {
+box-shadow: 0 0 3px 0px #1D1F21;
+}
+.ace-clouds .ace_marker-layer .ace_step {
+background: rgb(102, 82, 0)
+}
+.ace-clouds .ace_marker-layer .ace_bracket {
+margin: -1px 0 0 -1px;
+border: 1px solid #4B4E55
+}
+.ace-clouds .ace_marker-layer .ace_active-line {
+background: #282A2E
+}
+.ace-clouds .ace_gutter-active-line {
+background-color: #282A2E
+}
+.ace-clouds .ace_marker-layer .ace_selected-word {
+border: 1px solid #373B41
+}
+.ace-clouds .ace_invisible {
+color: #4B4E55
+}
+.ace-clouds .ace_keyword,
+.ace-clouds .ace_meta,
+.ace-clouds .ace_storage,
+.ace-clouds .ace_storage.ace_type,
+.ace-clouds .ace_support.ace_type {
+color: #B294BB
+}
+.ace-clouds .ace_keyword.ace_operator {
+color: #8ABEB7
+}
+.ace-clouds .ace_constant.ace_character,
+.ace-clouds .ace_constant.ace_language,
+.ace-clouds .ace_constant.ace_numeric,
+.ace-clouds .ace_keyword.ace_other.ace_unit,
+.ace-clouds .ace_support.ace_constant,
+.ace-clouds .ace_variable.ace_parameter {
+color: #DE935F
+}
+.ace-clouds .ace_constant.ace_other {
+color: #CED1CF
+}
+.ace-clouds .ace_invalid {
+color: #CED2CF;
+background-color: #DF5F5F
+}
+.ace-clouds .ace_invalid.ace_deprecated {
+color: #CED2CF;
+background-color: #B798BF
+}
+.ace-clouds .ace_fold {
+background-color: #81A2BE;
+border-color: #C5C8C6
+}
+.ace-clouds .ace_entity.ace_name.ace_function,
+.ace-clouds .ace_support.ace_function,
+.ace-clouds .ace_variable {
+color: #81A2BE
+}
+.ace-clouds .ace_support.ace_class,
+.ace-clouds .ace_support.ace_type {
+color: #F0C674
+}
+.ace-clouds .ace_heading,
+.ace-clouds .ace_markup.ace_heading,
+.ace-clouds .ace_string {
+color: #B5BD68
+}
+.ace-clouds .ace_entity.ace_name.ace_tag,
+.ace-clouds .ace_entity.ace_other.ace_attribute-name,
+.ace-clouds .ace_meta.ace_tag,
+.ace-clouds .ace_string.ace_regexp,
+.ace-clouds .ace_variable {
+color: #CC6666
+}
+.ace-clouds .ace_comment {
+color: #969896
+}
+.ace-clouds .ace_indent-guide {
+background: url("../tomorrow_night-1.png") right repeat-y
+}
