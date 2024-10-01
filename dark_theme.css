@@ -1,6 +1,6 @@
-.ace-clouds .ace_gutter {
-background: #25282c;
-color: #C5C8C6
+.ace_gutter {
+background: #25282c !important;
+color: #C5C8C6 !important
 }
 .ace-clouds .ace_print-margin {
 width: 1px;
